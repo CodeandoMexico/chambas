@@ -4,7 +4,7 @@ Una bolsa de trabajo que busca conectar a hackers con oportunidades laborales pa
 
 ## Trabajos abiertos
 
-_Por el momento no hay trabajos abiertos._
+* Por el momento no hay trabajos abiertos. [Agrega uno](https://github.com/CodeandoMexico/jobs/issues/new).
 
 ## Cómo agregar un trabajo
 
