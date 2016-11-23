@@ -7,7 +7,7 @@ Una bolsa de trabajo que busca conectar a hackers con oportunidades laborales pa
 _Por el momento no hay trabajos abiertos._
 
 ## Cómo agregar un trabajo
-1. [Crea un nuevo Issues](https://github.com/CodeandoMexico/jobs/issues/new) llenando la plantilla.
+1. [Crea un nuevo issue](https://github.com/CodeandoMexico/jobs/issues/new) llenando la plantilla.
 2. Agrega las 3 etiquetas que creas más relevantes para el puesto.
 3. Agrega el link al issue que creaste en la sección de [Trabajos abiertos](#trabajos-abiertos) y manda tu Pull-Request.
 
