@@ -4,7 +4,9 @@ Una bolsa de trabajo que busca conectar a hackers con oportunidades laborales pa
 
 ## Trabajos abiertos
 
-* Por el momento no hay trabajos abiertos. [Agrega uno](https://github.com/CodeandoMexico/jobs/issues/new).
+* [CIVICS - Desarrollador full-stack (Ruby on Rails + AngularJS)](https://github.com/CodeandoMexico/jobs/issues/1)
+
+[Agrega un trabajo](https://github.com/CodeandoMexico/jobs/issues/new).
 
 ## Cómo agregar un trabajo
 
