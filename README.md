@@ -5,6 +5,7 @@ Una bolsa de trabajo que busca conectar a hackers con oportunidades laborales pa
 ## Trabajos abiertos
 
 * [CIVICS - Desarrollador full-stack (Ruby on Rails + AngularJS)](https://github.com/CodeandoMexico/jobs/issues/1)
+* [Project Manager para Desafío San Pedro (The GovLab / Codeando México)](https://github.com/CodeandoMexico/jobs/issues/2)
 
 [Agrega un trabajo](https://github.com/CodeandoMexico/jobs/issues/new).
 
