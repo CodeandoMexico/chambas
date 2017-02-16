@@ -6,6 +6,7 @@ Una bolsa de trabajo que busca conectar a hackers con oportunidades laborales pa
 
 * [CIVICS - Desarrollador full-stack (Ruby on Rails + AngularJS)](https://github.com/CodeandoMexico/jobs/issues/1)
 * [Desarrollador front end o fullstack para datos.gob.mx](https://github.com/CodeandoMexico/jobs/issues/3)
+* [Desarrolladoras/es fullstack Borde Político](https://github.com/CodeandoMexico/jobs/issues/4)
 
 [Agrega un trabajo](https://github.com/CodeandoMexico/jobs/issues/new).
 
