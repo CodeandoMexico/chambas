@@ -1,4 +1,4 @@
-# Jobs
+# Chambas
 
 Una bolsa de trabajo que busca conectar a hackers con oportunidades laborales para resolver las problemáticas más importantes que tenemos como sociedad y país. Creada por y para la comunidad de hackers cívicos en el país. 
 
